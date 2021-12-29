@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       mosquito
+//  action 1:   the mosquito bites
+mosquito.bite();
+//  action 2:   the mosquito flies
+mosquito.fly();
+//  action 3:   the mosquito crawls
+mosquito.crawl();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       finger
+//  action 1:   the finger types a letter
+finger.typeLetter();
+//  action 2:   the finger plays a note on a piano
+finger.playNote();
+//  action 3:   the finger points
+finger.point();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       robot
+//  action 1:   the robot marches
+robot.march();
+//  action 2:   the robot beeps
+robot.beep();
+//  action 3:   the robot changes it hand into a sword
+robot.changeToSword();
+//  4)          
+//  Noun:       animator
+//  action 1:   the animator studies references
+animator.studyReference();
+//  action 2:   the animator plans out what to draw
+animator.planStoryboard();
+//  action 3:   the animator draws one keyframe  
+animator.drawKeyframe();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       meteoroid
+//  action 1:   the meteoroid orbits 
+meteoroid.orbit();
+//  action 2:   the meteoroid enters the earths atmosphere
+meteoroid.enterAtmosphere();
+//  action 3:   the meteoroid lands on the earth 
+meteoroid.land();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       clock
+//  action 1:   the clock changes it's hour hand 
+clock.changeHour()
+//  action 2:   the clock changes it's minute hand
+clock.changeMinute()    
+//  action 3:   the clock changes it's second hand
+clock.changeSecond()
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       computer 
+//  action 1:   the computer shuts down 
+computer.shutDown();
+//  action 2:   the computer starts up
+computer.startUp();
+//  action 3:   the computer restarts
+computer.restart();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       cloud
+//  action 1:   the cloud rains
+cloud.rain();
+//  action 2:   the cloud snows
+cloud.snow();
+//  action 3:   the cloud hails
+cloud.hail();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       bee
+//  action 1:   the bee pollinates a flower
+bee.pollinate();
+//  action 2:   the bee buzzes
+bee.buzz();
+//  action 3:   the bee stings
+bee.sting();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       turtle
+//  action 1:   the turtle swims
+turtle.swim();
+//  action 2:   the turtle brumates
+turtle.brumate();
+//  action 3:   the turtle sunbathes
+turtle.sunbathe();
 
 
 #endif
