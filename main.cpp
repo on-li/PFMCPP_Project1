@@ -90,15 +90,15 @@ meteoroid.orbit();
 //  action 2:   the meteoroid enters the earths atmosphere
 meteoroid.enterAtmosphere();
 //  action 3:   the meteoroid lands on the earth 
-meteoroid.land();
+meteoroid.landOnEarth();
 //  6)
 //  Noun:       clock
 //  action 1:   the clock changes it's hour hand 
-clock.changeHour()
+clock.changeHourHand()
 //  action 2:   the clock changes it's minute hand
-clock.changeMinute()    
+clock.changeMinuteHand()    
 //  action 3:   the clock changes it's second hand
-clock.changeSecond()
+clock.changeSecondHand()
 //  7)
 //  Noun:       computer 
 //  action 1:   the computer shuts down 
@@ -118,7 +118,7 @@ cloud.hail();
 //  9)
 //  Noun:       bee
 //  action 1:   the bee pollinates a flower
-bee.pollinate();
+bee.pollinateFlower();
 //  action 2:   the bee buzzes
 bee.buzz();
 //  action 3:   the bee stings
@@ -130,7 +130,7 @@ turtle.swim();
 //  action 2:   the turtle brumates
 turtle.brumate();
 //  action 3:   the turtle basks in the sun
-turtle.basks();
+turtle.baskInSun();
 
 
 #endif
