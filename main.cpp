@@ -129,8 +129,8 @@ bee.sting();
 turtle.swim();
 //  action 2:   the turtle brumates
 turtle.brumate();
-//  action 3:   the turtle sunbathes
-turtle.sunbathe();
+//  action 3:   the turtle basks in the sun
+turtle.basks();
 
 
 #endif
