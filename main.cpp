@@ -60,13 +60,13 @@ mosquito.fly();
 //  action 3:   the mosquito crawls
 mosquito.crawl();
 //  2)
-//  Noun:       finger
-//  action 1:   the finger types a letter
-finger.typeLetter();
-//  action 2:   the finger plays a note on a piano
-finger.playNote();
-//  action 3:   the finger points
-finger.point();
+//  Noun:       right hand
+//  action 1:   the right hand clenches into a fist
+rightHand.clenchFist();
+//  action 2:   the right hand writes with a pen
+rightHand.writeWithPen();
+//  action 3:   the right hand reaches behind the back
+rightHand.reachBehindBack();
 //  3)
 //  Noun:       robot
 //  action 1:   the robot marches
